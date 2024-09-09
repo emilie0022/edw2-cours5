@@ -14,4 +14,15 @@ Partie 2
 Partie 3
     1- retourner sur la branche que je travaillais à la base (page-a-propos dans cette situation)
     2- utiliser la commande "git stash apply" pour retrouver le travail "non enregistré"
-    3-
+    3- travailler sur le projet
+    4- a jouter les dossiers modifier avec la commandes "git add ."
+    5- Faire le commit
+    6- pousser la branche sur github avec la commande "git push page-a-propos "
+    7- aller dans la branche master avec la commande "git checkout master"
+    8- mettre a jour la branche master en utilisant la commant "git pull origin master"
+    9- fusionner la branche page-a-propos a la branche master avec la commande "git merge 
+    10- pousser la branche master sur git hub avec la commande "git push origine master"
+    11- ouvrir un pull request sur github dans la branche master
+    12- soumettre le pull request
+
+Partie 4
