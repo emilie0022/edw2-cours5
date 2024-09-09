@@ -1,0 +1,17 @@
+Partie 1
+    1- clonner le depot
+    2- Créer une nouvel branche avec la commande "git checkout -b page-a-propos"
+    3- Créer la page a propos et modifier la navigation des autres page
+    4- ajouter le contenu a la page
+    5- faire un commit des modifications
+
+Partie 2
+    1-mettre les modifications non commit dans un stash
+    2- je retourne sur la branche master
+    3-Créer une nouvelle branche qui se nomme avec la commande "git checkout -b hot-fix"    
+    4- reparer le bug
+
+Partie 3
+    1- retourner sur la branche que je travaillais à la base (page-a-propos dans cette situation)
+    2- utiliser la commande "git stash apply" pour retrouver le travail "non enregistré"
+    3-
