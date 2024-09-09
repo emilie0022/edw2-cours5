@@ -20,7 +20,7 @@ Partie 3
     6- pousser la branche sur github avec la commande "git push origine page-a-propos "
     7- aller dans la branche master avec la commande "git checkout master"
     8- mettre a jour la branche master en utilisant la commant "git pull origin master"
-    9- fusionner la branche page-a-propos a la branche master avec la commande "git merge 
+    9- fusionner la branche page-a-propos a la branche master avec la commande "git merge"
     10- pousser la branche master sur git hub avec la commande "git push origine master"
     11- ouvrir un pull request sur github dans la branche master
     12- soumettre le pull request
